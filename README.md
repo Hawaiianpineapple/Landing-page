@@ -15,7 +15,7 @@ Update method. using a traditional journal system like day 1...day 2 etc. seems 
 snapshot 1.0.0 - setting up the repos path and important files i.e. (index, css).
 snapshot 1.0.1 - the addition of images directory along with repective content. Images and authors are at the bottom of the README. NOTES-- I figure I should decide on a theme wether or not I follow it to the end is debatable but I've decided on tech and although the template that was given for the project isn't quite the fit I for it, it gives it some personality. 
 
-
+snapshot 1.1.1 - first major update adding html basic structure to header including filler text and images including logo. NOTES-- Although it doesn't seem like much,(the filler text and html structure) the hardest part was the logo. Thinking it would be simple using a svg I've learned that not all browsers load them correctly and my understanding isn't advanced enough to fix them. Everything I've read so far says to try xlink or embed both of which complicate things beyond what I'm capable of at the moment. Unfortunely that means I have to use a png. It works but I wanted something that could scale easily.
 
 
 
