@@ -20,6 +20,10 @@ snapshot 1.1.1 - first major update adding html basic structure to header includ
 
 snapsht 1.2.1 - completed all the major html filler content with images minus id's and class tags or polishing to html tree. Header text, size and color have been set to assignment reqirements. NOTES-- honestly not much to say, pretty much just looking at what the assignment wants and adding it in didn't really run into much of a problem with anything. Mostly likely flexbox stuff will be hard and ill have to ajust the html and containers.
 
+snapshot 1.2.2 - completed most id's and classes. Ajusted font size, color, grouping and background colors.
+
+
+
 
 
 

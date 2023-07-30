@@ -1,11 +1,15 @@
 
-header {
+header,
+footer {
     background-color: #1f2937;
+    /* background-color: black; */
 }
 
 .link,
 .sec-text,
-.sign-up {
+.sign-up,
+footer,
+#quote-panel {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -16,6 +20,49 @@ header {
     color: #f9faf8;
 }
 
-.sign-up {
+.sign-up,
+#action-panel {
     background-color: #3882f6;
+}
+
+#quote-panel .quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+#img-panel-title {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.container-img-panel {
+    display: flex;
+    justify-content: center;
+}
+
+.img-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    gap: 5px;
+}
+
+.img-content img {
+    height: 170px;
+    width: 170px;
+    border: 4px solid #3882f6;
+}
+
+.img-content content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#quote-panel {
+    background-color: #e5e7eb;
 }
