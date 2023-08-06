@@ -22,7 +22,7 @@ snapsht 1.2.1 - completed all the major html filler content with images minus id
 
 snapshot 1.2.2 - completed most id's and classes. Ajusted font size, color, grouping and background colors.
 
-
+snapshot 1.3.2 - finally got around to another update. Most of the CSS structure is completed. Minor tweeks to html tags to get everything with flex working. Most of the things left are minor adjustments need to make the code and page clean looking. NOTES-- Honestly I thought I would have more problems with this portion of the project, (sometimes flex really doesn't want to work the way I think it would but I'm learning so I guess that to be expected). That said it went smooth which is a relief for me. Probably only have a few more minor snapshots left.
 
 
 
